@@ -36,3 +36,5 @@ else:
     throw egg
 
 ways to optimize floor: take amount of dropped eggs in the past from each floor to determine which floor is safe to throw eggs from
+
+runtime complexity = O(n)??????
